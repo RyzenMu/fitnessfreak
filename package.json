@@ -9,11 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "dependencies": {
-    "eslint-config-react-app": "^7.0.1",
+  "dependencies": {   
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "vite-plugin-eslint": "^1.8.1"
+    "react-dom": "^18.3.1",   
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
