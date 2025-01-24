@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Hero from "./components/Hero";
 import Login from "./components/Login";
 import Register from "./components/Register";
+import {useReducer} from 'react'
 
 function App() {
   return (
